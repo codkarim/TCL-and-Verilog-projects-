@@ -1,9 +1,5 @@
 # Verilog RTL Design & TCL Scripting
 
-A hands-on collection of Verilog RTL projects and TCL scripting exercises. The repository covers fundamental digital building blocks, arithmetic and logic design, finite-state machines, serial-data processing, and file-oriented scripting tasks.
-
----
-
 ## Repository Overview
 
 This repository is organized into two main areas:

@@ -29,7 +29,7 @@ The projects are intended for learning and practicing RTL coding, simulation-bas
 
 ---
 
-### 2. Unsigned 16-bit ALU — [ALU_Unsigned](./verilog/ALU_unsigned)
+### 2. Unsigned 16-bit ALU — [ALU_Unsigned](./verilog/ALU_unsinged)
 
 **Supported operation groups**
 - **Arithmetic:** addition, subtraction, multiplication, and division.

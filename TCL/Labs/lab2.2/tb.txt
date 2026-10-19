@@ -1,0 +1,12 @@
+
+
+reg  [3:0]  i_IN;
+reg         i_Load;
+reg         i_Up;
+reg         i_Down;
+reg         i_CLK;
+wire        o_High;
+wire [3:0]  o_Counter;
+wire        o_Low;
+
+

@@ -179,7 +179,7 @@ The `TCL/` directory contains labs and assignments that practice TCL fundamental
 
 ---
 
-### RTL file-list formatting — [Assignment_2.2](./TCL/Assignment_2.TCL/Ass2.2)
+### RTL file-list formatting — [Assignment_2.2](./TCL/Assignment_2.TCL/Ass2_2)
 - Reading a text file containing RTL filenames.
 - Using `regsub` to remove newline characters and adjust whitespace.
 - Printing a compact file-list representation.
@@ -198,7 +198,7 @@ The `TCL/` directory contains labs and assignments that practice TCL fundamental
 - TCL variables, expressions, strings, lists, arrays, procedures, loops, and file I/O handling.
 - Text transformation and generation of HDL-related declarations.
 
-> **Note:** These projects were collected as practical learning exercises. Review each testbench and assignment brief for the exact stimulus, assumptions, and expected behavior. Simulation results depend on the simulator and the files available in the project directory.
+> **Note:** These projects were collected as practical learning exercises. Review each testbench and Documentation brief for the exact stimulus, assumptions, and expected behavior. Simulation results depend on the simulator and the files available in the project directory.
 
 ---
 ## Author
